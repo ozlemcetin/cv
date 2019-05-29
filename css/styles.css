@@ -1,0 +1,27 @@
+/******************** TAG SELECTORS ********************************/
+
+
+
+hr {
+  border-color: gray;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  border-radius: 0 50% 50% 50%;
+}
+
+table {
+  border-spacing: 10px;
+}
+
+td {
+  padding: 5px;
+}
+
+li {
+  padding: 3px;
+}
